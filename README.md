@@ -27,10 +27,11 @@ Portfolio featuring 3D parametric models, mechanical assemblies, and manufacturi
 
 ---
 
-### 4. Industrial Safety Device Enclosure & Prototyping
+### 4. Industrial Safety Device Enclosure (Adapted Design)
 * **Software:** SolidWorks
 * **Manufacturing Process:** FDM 3D Printing (PLA Matte / PLA Basic)
-* **Key Features:** Custom internal mounting for microcontrollers, gas sensor cutouts, snap-fit tolerance design, and DFM (Design for Manufacturing) optimization.
+* **Key Features:** Customized redesign adapted from a base GrabCAD model, featuring bespoke gas sensor cutouts, modified component clearances, and snap-fit optimization for prototyping.
+* **Base Reference:** Adapted from [GrabCAD Arduino UNO Case](https://grabcad.com/library/arduino-uno-case-14).
 
 * 
 ## Contact

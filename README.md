@@ -33,7 +33,7 @@ Portfolio featuring 3D parametric models, mechanical assemblies, and manufacturi
 * **Key Features:** Customized redesign adapted from a base GrabCAD model, featuring bespoke gas sensor cutouts, modified component clearances, and snap-fit optimization for prototyping.
 * **Base Reference:** Adapted from [GrabCAD Arduino UNO Case](https://grabcad.com/library/arduino-uno-case-14).
 
-* 
+  
 ## Contact
 * **LinkedIn:** [linkedin.com/in/emilydelorbe](https://linkedin.com/in/emilydelorbe)[cite: 1, 2]
 * **Email:** emilydeorbe@gmail.com[cite: 1, 2]
